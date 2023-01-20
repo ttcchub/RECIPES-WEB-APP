@@ -1,0 +1,233 @@
+/* ADD RECIPE */
+.body{
+    color: black;
+}
+.wrapper {
+    height:-120vh;
+    color: black;
+
+}
+    
+.form-cont h3 {
+    margin: 0 0 2rem 1rem;
+    letter-spacing: 3px;
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+
+}
+  
+form {
+    width: 30vw;
+    height: 100vh;
+}
+  
+.delete{
+font-size: 12px;
+top: 40px;
+cursor: pointer;
+margin: 10px;
+padding: 10px;
+
+scale: 100%;
+transition: all .2s ease-in-out; 
+color: var(--grey);
+
+}
+
+
+.delete:hover{
+  color: var(--greyLight);
+  margin: 10px;
+  padding: 10px;
+  transform: scale(80%); 
+  cursor: pointer;
+}
+
+.fas.fa-search{
+  scale: 110%;
+  transition: all .2s ease-in-out; 
+  color: var(--grey);
+  cursor: pointer;
+}
+
+  
+
+.viewZone {
+    position: absolute;
+    left: 150px;
+    top: 250px;
+}
+
+input,
+select {
+    display: block;
+    width: 320px;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    border: none;
+    margin: 0 0 .5rem 1rem;
+    background-color: rgb(86, 86, 86);
+    color: aliceblue;
+
+}
+  
+label {
+    margin-left: 20px;
+    font-size: 0.8rem;
+    line-height: 1.2;
+    color: rgb(173, 173, 173);
+    margin: 1rem 0 0.5rem 1.1rem;
+    display: block;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+}
+
+  
+textarea {
+    width: 320px;
+    height: 70px;
+    margin: 0 0 0 1rem;
+    border-radius: 0.5rem;
+    background-color: rgb(86, 86, 86);
+    color: aliceblue;
+    font-family: 'Montserrat', sans-serif;
+
+    padding: 4px;
+}
+  
+input,textarea,select:focus {
+    border-color: transparent;
+    outline: none;
+}
+
+.form-cont {
+    padding: 5% 0 0 50%;
+}
+  
+.form-cont button {
+    margin: 0.8rem 0 .5rem 1.2rem;
+}
+  
+.row {
+    display: flex;
+}
+  
+.input2 input {
+    float: right;
+    width: 150px;
+}
+  
+.input1 input {
+    width: 150px;
+}
+
+
+.submit {
+
+    width: 55px;
+    align-items: center;
+    appearance: none;
+    background-color: #ffffff;
+    border-radius: 15px;
+    border-color: transparent;
+    border-width: 0;
+    box-sizing: border-box;
+    color: #36395A;
+    cursor: pointer;
+    display: inline-flex;
+    font-family: 'Montserrat', sans-serif;
+    height: 48px;
+    justify-content: center;
+    line-height: 1;
+    list-style: none;
+    overflow: hidden;
+    padding-left: 16px;
+    padding-right: 16px;
+    position: relative;
+    text-align: left;
+    text-decoration: none;
+    transition: box-shadow .15s,transform .15s;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    will-change: box-shadow,transform;
+    font-size: 25px;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    margin-right: 20px;
+  }
+  
+  .submit:focus {
+    box-shadow: #D6D6E7 0 0 0 1.5px inset, rgba(45, 35, 66, 0.4) 0 2px 4px, rgba(45, 35, 66, 0.3) 0 7px 13px -3px, #D6D6E7 0 -3px 0 inset;
+  }
+  
+  .submit:hover {
+    box-shadow: rgba(45, 35, 66, 0.4) 0 4px 8px, rgba(45, 35, 66, 0.3) 0 7px 13px -3px, #D6D6E7 0 -3px 0 inset;
+    transform: translateY(-2px);
+  }
+  
+  .submit:active {
+    box-shadow: #D6D6E7 0 3px 7px inset;
+    
+  }
+  
+
+
+
+.submit2 {
+    width: 80px;
+    align-items: center;
+    appearance: none;
+    background-color: #ffffff;
+    border-radius: 15px;
+    border-color: transparent;
+    border-width: 0;
+    box-sizing: border-box;
+    color: #36395A;
+    cursor: pointer;
+    display: inline-flex;
+    font-family: 'Play', sans-serif;
+    width: 80px;
+    height: 48px;
+    justify-content: center;
+    line-height: 1;
+    list-style: none;
+    overflow: hidden;
+    padding-left: 16px;
+    padding-right: 16px;
+    position: relative;
+    text-align: left;
+    text-decoration: none;
+    transition: box-shadow .15s,transform .15s;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    will-change: box-shadow,transform;
+    font-size: 16px;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    margin: auto;
+  }
+  
+  .submit2:focus {
+    box-shadow: #D6D6E7 0 0 0 1.5px inset, rgba(45, 35, 66, 0.4) 0 2px 4px, rgba(45, 35, 66, 0.3) 0 7px 13px -3px, #D6D6E7 0 -3px 0 inset;
+  }
+  
+  .submit2:hover {
+    box-shadow: rgba(45, 35, 66, 0.4) 0 4px 8px, rgba(45, 35, 66, 0.3) 0 7px 13px -3px, #D6D6E7 0 -3px 0 inset;
+    transform: translateY(-2px);
+  }
+  
+  .submit2:active {
+    box-shadow: #D6D6E7 0 3px 7px inset;
+    
+  }
+  
+  .submit{
+    top:-8px;
+    left: 20px;
+  }

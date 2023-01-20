@@ -1,0 +1,96 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "BBQ Ribs",
+      "author": "2-3 Hours",
+      "country": "United States",
+      "flag": "",
+      "description": "The easiest barbecue ribs besides slow cooking!\n\nPrepare ribs as above, then pat them dry with a sheet of paper towel.\nRub with our dry rub mixture (recipe below). I like to drizzle some olive oil over them for the best juicy, tender and crispy results.\nArrange them on a lined baking tray. You can use foil or parchment paper.\nBake for a couple of hours, then slather with our BBQ sauce mixture. Use a brush or spoon to spread it evenly over the tops.\nBroil (or grill) for an additional 2-5 minutes to get crispy, charred edges.",
+      "image": "https://cafedelites.com/wp-content/uploads/2018/06/Pork-Ribs-IMAGE-13.jpg",
+      "ingredients": [
+        {
+          "quantity": "1",
+          "ingredient": "BBQ Sause"
+        },
+        {
+          "quantity": "2",
+          "ingredient": "Garlic"
+        },
+        {
+          "quantity": "1",
+          "ingredient": "Olive oil"
+        },
+        {
+          "quantity": "1",
+          "ingredient": "Worcestershire sauce"
+        }
+      ],
+      "instructions": "Oven, slow cooker or on the barbecue; pork ribs are so versatile they can be cooked either way. If you love soft, fall-off-the-bone ribs, then go for our slow cooker method. But, if you love juicy, tender and crispy ribs with caramelised edges, then this oven ribs method is for you!"
+    },
+    {
+      "id": 2,
+      "name": "Frikadellisupp",
+      "author": "1 hour ",
+      "country": "Estonia",
+      "flag": "",
+      "description": "Frikadellisupp literally means “meatball soup”. Like leivasupp (Estonian rye bread soup), it’s a homey dish and one of the most popular soups in schools as it’s a favorite among children.",
+      "image": "https://imgs.search.brave.com/HmO_nfGwptXk8MMK1UZdOIyvnFOokoS1cxXw6turqh8/rs:fit:533:800:1/g:ce/aHR0cDovL3d3dy5s/aW5udWxpaGEuZWUv/d3AtY29udGVudC91/cGxvYWRzL2ZyaWth/ZGVsbGlzdXBwLmpw/Zw",
+      "ingredients": [
+        {
+          "quantity": "1",
+          "ingredient": "carrot"
+        },
+        {
+          "quantity": "2",
+          "ingredient": "green"
+        },
+        {
+          "quantity": "3",
+          "ingredient": "meat"
+        }
+      ],
+      "instructions": "Frikadellisupp is made from vegetables and meatballs, its simplicity being a part of what makes it the beloved dish that it is. Vegetables and root crops like carrots, potatoes, peas, and onions are often used in the recipe. It’s the best served warm on cold rainy days, and trust me, in Estonia, rain occurs more often than not."
+    },
+    {
+      "id": 3,
+      "name": "CHAWAN MUSHI",
+      "author": "1.5 hour",
+      "country": "Japan",
+      "flag": "",
+      "description": "Not many easy exotic recipes are found in Japanese cook books. Despite their simplistic looks, Japanese dishes rely on complex flavoring. A nice easy one packed with flavor however, is Chawan Mushi\n\n\n\n",
+      "image": "https://img.allw.mn/content/nc/dl/uuv6d7u6_600x900.jpg",
+      "ingredients": [
+        {
+          "quantity": " 2 tsp ",
+          "ingredient": "instant dashi powder"
+        },
+        {
+          "quantity": " ¼ ",
+          "ingredient": "•cup coarsely chopped salted and roasted cashew nuts"
+        },
+        {
+          "quantity": "• 4oz ",
+          "ingredient": "lump crab meat"
+        },
+        {
+          "quantity": "4",
+          "ingredient": "shitake mushrooms"
+        },
+        {
+          "quantity": "1",
+          "ingredient": "scallion"
+        },
+        {
+          "quantity": "3",
+          "ingredient": "eggs"
+        },
+        {
+          "quantity": "1",
+          "ingredient": "Steamer basket"
+        }
+      ],
+      "instructions": "Method\nFirstly remove the caps from the mushrooms then slice them very thinly. Cut the scallion into thin matchsticks. Dissolve the dashi powder in the warm water in a bowl, whisking until it is dissolved. Allow the sediment to settle and then pour the clear dashi through a tea strainer into a jug. Crack the eggs into a bowl and blend the whites and yolks together with a pair of chopsticks. Add the dashi and stir and transfer the mix back to the jug, again through a tea strainer (or fine sieve). Share the cashews between 4 shallow bowls followed by ¼ of the dashi mix. Wrap each bowl in plastic. Sit gently in the steamer basket over boiling water and steam for 14-18 minutes until the mix is set. Remove from steamer and put in fridge for a minimum of 3 hours. When ready to serve, take the plastic wrap off, and divide the crab, mushrooms and scallion between the 4 bowls. Serve."
+    }
+  ]
+}

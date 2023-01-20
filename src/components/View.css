@@ -1,0 +1,35 @@
+.view {
+  background-color: rgba(58, 58, 58, 0.291);
+  color: aliceblue;
+  padding: 1rem 2rem;
+  margin: 30px;
+  min-width: 10px;
+  border-radius: 10px;
+  font-family: 'Montserrat', sans-serif;
+  width: 35vw;
+
+}
+
+.view h2 {
+  margin: 0 0 1.5rem 0;
+  color: rgb(8, 8, 8);
+  font-family: 'Montserrat', sans-serif;
+  width: 25vw;
+
+}
+
+.view p {
+  margin: 1rem 0;
+  color: aliceblue;
+  width: 25vw;
+
+}
+
+.h2{ 
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+  color: black;
+  width: 25vw;
+
+}
+
