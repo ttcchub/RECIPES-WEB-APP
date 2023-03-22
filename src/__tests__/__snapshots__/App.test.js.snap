@@ -1,0 +1,154 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Jest snapshot testing suite Matches DOM Snapshot for App component 1`] = `
+<div
+  className="App"
+>
+  <header>
+    <a
+      aria-current="page"
+      className="active"
+      href="/"
+      onClick={[Function]}
+    >
+      <h2>
+        Recepies
+        <b>
+          of Best dishes
+        </b>
+      </h2>
+    </a>
+    <div
+      className="mode-toggle"
+    >
+      <input
+        className="checkbox"
+        id="checkbox"
+        onChange={[Function]}
+        type="checkbox"
+      />
+      <label
+        className="checkbox-label"
+        htmlFor="checkbox"
+      >
+        <span
+          className="ball"
+        />
+      </label>
+    </div>
+    <nav>
+      <ul>
+        <li>
+          <a
+            aria-current="page"
+            className="active"
+            href="/"
+            onClick={[Function]}
+          >
+            Home
+          </a>
+        </li>
+        <li>
+          <a
+            className=""
+            href="/browserecipes"
+            onClick={[Function]}
+          >
+            Recipes
+          </a>
+        </li>
+        <li>
+          <a
+            className=""
+            href="/add"
+            onClick={[Function]}
+          >
+            Add new recipe
+          </a>
+        </li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <main>
+      <video
+        autoPlay={true}
+        className="video"
+        loop={true}
+        muted={true}
+      >
+        <source
+          src="video.mp4"
+          type="video/mp4"
+        />
+      </video>
+      <div
+        className="intro-container"
+      >
+        <h1>
+          Recepies application
+        </h1>
+        <a
+          href="/browserecipes"
+          onClick={[Function]}
+        >
+          <button>
+            Please Browse Recipes 
+          </button>
+        </a>
+      </div>
+      <div
+        className="main-container"
+      >
+        <div
+          className="home-card"
+        >
+          <h4>
+            Browse Recipes
+          </h4>
+          <a
+            href="/browserecipes"
+            onClick={[Function]}
+          >
+            <small>
+              All Recipes
+            </small>
+          </a>
+        </div>
+        <div
+          className="home-card"
+        >
+          <h4>
+            Add Recipes
+          </h4>
+          <a
+            href="/add"
+            onClick={[Function]}
+          >
+            <small>
+              Add Recipes
+            </small>
+          </a>
+        </div>
+        <div
+          className="home-card"
+        >
+
+          <p>
+            Check our college web-site page
+          </p>
+          <a
+            href="http://bc.fi"
+            rel="noreferrer"
+            target="_blank"
+          >
+            <small>
+              Business College Helsinki
+            </small>
+          </a>
+        </div>
+      </div>
+    </main>
+  </main>
+</div>
+`;
